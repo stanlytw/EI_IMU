@@ -74,6 +74,7 @@ __attribute__((weak)) int _read(int file, char *ptr, int len)
 return len;
 }
 
+
 __attribute__((weak)) int _write(int file, char *ptr, int len)
 {
 	int DataIdx;
@@ -84,6 +85,7 @@ __attribute__((weak)) int _write(int file, char *ptr, int len)
 	}
 	return len;
 }
+
 
 int _close(int file)
 {

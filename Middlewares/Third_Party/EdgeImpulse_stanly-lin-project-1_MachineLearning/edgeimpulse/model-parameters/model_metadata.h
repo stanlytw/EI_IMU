@@ -23,7 +23,7 @@
 #define _EI_CLASSIFIER_MODEL_METADATA_H_
 
 #include <stdint.h>
-#include <stdbool.h>
+
 #define EI_CLASSIFIER_NONE                       255
 #define EI_CLASSIFIER_UTENSOR                    1
 #define EI_CLASSIFIER_TFLITE                     2
