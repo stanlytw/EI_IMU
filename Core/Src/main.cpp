@@ -177,7 +177,7 @@ int main(void)
 #if EI_CLASSIFIER_HAS_ANOMALY == 1
     printf("Anomaly prediction: %.3f\r\n", result.anomaly);
 #endif
-    return 0;
+    //return 0;
 #endif
 
   /* USER CODE END 2 */
