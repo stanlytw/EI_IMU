@@ -8,6 +8,9 @@ For other non-supported hardware platform, please refer to Edge-Impulse Document
 https://docs.edgeimpulse.com/docs/porting-guide
 
 Topics of porting to not officially supported board includes:
+
 1.Collecting data
+
 2.Running Impulses
+
 3.Controlling the device from the studio
